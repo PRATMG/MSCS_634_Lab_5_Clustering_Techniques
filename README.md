@@ -20,7 +20,7 @@ The dataset features were standardized before applying the clustering algorithms
 
 ## Dataset
 
-The Wine dataset contains chemical analysis results of wines grown in the same region in Italy but derived from three different cultivars.
+The Wine dataset contains chemical analysis results of wines grown in the same region in Italy but derived from three different selection.
 
 Dataset characteristics:
 
